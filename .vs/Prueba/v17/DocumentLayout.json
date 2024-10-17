@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3881C07-BD85-4DF0-96F5-C5AB055685CA}|test.webapi\\test.webapi.csproj|c:\\users\\ojimenez\\source\\repos\\prueba\\test.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3881C07-BD85-4DF0-96F5-C5AB055685CA}|test.webapi\\test.webapi.csproj|solutionrelative:test.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3881C07-BD85-4DF0-96F5-C5AB055685CA}|test.webapi\\test.webapi.csproj|c:\\users\\ojimenez\\source\\repos\\prueba\\test.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3881C07-BD85-4DF0-96F5-C5AB055685CA}|test.webapi\\test.webapi.csproj|solutionrelative:test.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3881C07-BD85-4DF0-96F5-C5AB055685CA}|test.webapi\\test.webapi.csproj|c:\\users\\ojimenez\\source\\repos\\prueba\\test.webapi\\dtos\\transactioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3881C07-BD85-4DF0-96F5-C5AB055685CA}|test.webapi\\test.webapi.csproj|solutionrelative:test.webapi\\dtos\\transactioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3881C07-BD85-4DF0-96F5-C5AB055685CA}|test.webapi\\test.webapi.csproj|c:\\users\\ojimenez\\source\\repos\\prueba\\test.webapi\\dtos\\transactionreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3881C07-BD85-4DF0-96F5-C5AB055685CA}|test.webapi\\test.webapi.csproj|solutionrelative:test.webapi\\dtos\\transactionreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3881C07-BD85-4DF0-96F5-C5AB055685CA}|test.webapi\\test.webapi.csproj|c:\\users\\ojimenez\\source\\repos\\prueba\\test.webapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3881C07-BD85-4DF0-96F5-C5AB055685CA}|test.webapi\\test.webapi.csproj|solutionrelative:test.webapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B845497-E5DD-4F3E-B363-3F2D99E0ED78}|test.infrastructure\\test.infrastructure.csproj|c:\\users\\ojimenez\\source\\repos\\prueba\\test.infrastructure\\repositories\\mongotransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B845497-E5DD-4F3E-B363-3F2D99E0ED78}|test.infrastructure\\test.infrastructure.csproj|solutionrelative:test.infrastructure\\repositories\\mongotransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3881C07-BD85-4DF0-96F5-C5AB055685CA}|test.webapi\\test.webapi.csproj|c:\\users\\ojimenez\\source\\repos\\prueba\\test.webapi\\test.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3881C07-BD85-4DF0-96F5-C5AB055685CA}|test.webapi\\test.webapi.csproj|solutionrelative:test.webapi\\test.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9BC185-4E29-4540-B97B-0D13AA3EAC45}|test.domain\\test.domain.csproj|c:\\users\\ojimenez\\source\\repos\\prueba\\test.domain\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9BC185-4E29-4540-B97B-0D13AA3EAC45}|test.domain\\test.domain.csproj|solutionrelative:test.domain\\interfaces\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A44CC99-3D03-49CE-A868-F033EC0E0B7B}|test.application\\test.application.csproj|c:\\users\\ojimenez\\source\\repos\\prueba\\test.application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A44CC99-3D03-49CE-A868-F033EC0E0B7B}|test.application\\test.application.csproj|solutionrelative:test.application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B845497-E5DD-4F3E-B363-3F2D99E0ED78}|test.infrastructure\\test.infrastructure.csproj|c:\\users\\ojimenez\\source\\repos\\prueba\\test.infrastructure\\test.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B845497-E5DD-4F3E-B363-3F2D99E0ED78}|test.infrastructure\\test.infrastructure.csproj|solutionrelative:test.infrastructure\\test.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A44CC99-3D03-49CE-A868-F033EC0E0B7B}|test.application\\test.application.csproj|c:\\users\\ojimenez\\source\\repos\\prueba\\test.application\\test.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A44CC99-3D03-49CE-A868-F033EC0E0B7B}|test.application\\test.application.csproj|solutionrelative:test.application\\test.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9BC185-4E29-4540-B97B-0D13AA3EAC45}|test.domain\\test.domain.csproj|c:\\users\\ojimenez\\source\\repos\\prueba\\test.domain\\test.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F9BC185-4E29-4540-B97B-0D13AA3EAC45}|test.domain\\test.domain.csproj|solutionrelative:test.domain\\test.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9BC185-4E29-4540-B97B-0D13AA3EAC45}|test.domain\\test.domain.csproj|c:\\users\\ojimenez\\source\\repos\\prueba\\test.domain\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9BC185-4E29-4540-B97B-0D13AA3EAC45}|test.domain\\test.domain.csproj|solutionrelative:test.domain\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.webapi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "test.webapi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.webapi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "test.webapi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:20:24.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.webapi\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "test.webapi\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.webapi\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "test.webapi\\Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:10:51.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MongoTransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.infrastructure\\Repositories\\MongoTransactionRepository.cs",
+              "RelativeDocumentMoniker": "test.infrastructure\\Repositories\\MongoTransactionRepository.cs",
+              "ToolTip": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.infrastructure\\Repositories\\MongoTransactionRepository.cs",
+              "RelativeToolTip": "test.infrastructure\\Repositories\\MongoTransactionRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvxIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:04:23.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.webapi\\Startup.cs",
+              "RelativeDocumentMoniker": "test.webapi\\Startup.cs",
+              "ToolTip": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.webapi\\Startup.cs",
+              "RelativeToolTip": "test.webapi\\Startup.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:09:09.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.webapi\\DTOs\\TransactionReadDto.cs",
+              "RelativeDocumentMoniker": "test.webapi\\DTOs\\TransactionReadDto.cs",
+              "ToolTip": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.webapi\\DTOs\\TransactionReadDto.cs",
+              "RelativeToolTip": "test.webapi\\DTOs\\TransactionReadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:21:57.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.webapi\\DTOs\\TransactionCreateDto.cs",
+              "RelativeDocumentMoniker": "test.webapi\\DTOs\\TransactionCreateDto.cs",
+              "ToolTip": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.webapi\\DTOs\\TransactionCreateDto.cs",
+              "RelativeToolTip": "test.webapi\\DTOs\\TransactionCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:21:47.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "test.webapi",
+              "DocumentMoniker": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.webapi\\test.webapi.csproj",
+              "RelativeDocumentMoniker": "test.webapi\\test.webapi.csproj",
+              "ToolTip": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.webapi\\test.webapi.csproj",
+              "RelativeToolTip": "test.webapi\\test.webapi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T07:14:09.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "test.infrastructure",
+              "DocumentMoniker": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.infrastructure\\test.infrastructure.csproj",
+              "RelativeDocumentMoniker": "test.infrastructure\\test.infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.infrastructure\\test.infrastructure.csproj",
+              "RelativeToolTip": "test.infrastructure\\test.infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T07:04:02.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.application\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "test.application\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.application\\Services\\TransactionService.cs",
+              "RelativeToolTip": "test.application\\Services\\TransactionService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:01:22.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "test.application",
+              "DocumentMoniker": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.application\\test.application.csproj",
+              "RelativeDocumentMoniker": "test.application\\test.application.csproj",
+              "ToolTip": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.application\\test.application.csproj",
+              "RelativeToolTip": "test.application\\test.application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T07:01:01.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.domain\\Interfaces\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "test.domain\\Interfaces\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.domain\\Interfaces\\ITransactionRepository.cs",
+              "RelativeToolTip": "test.domain\\Interfaces\\ITransactionRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:59:43.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.domain\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "test.domain\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.domain\\Models\\Transaction.cs",
+              "RelativeToolTip": "test.domain\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:58:53.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "test.domain",
+              "DocumentMoniker": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.domain\\test.domain.csproj",
+              "RelativeDocumentMoniker": "test.domain\\test.domain.csproj",
+              "ToolTip": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.domain\\test.domain.csproj",
+              "RelativeToolTip": "test.domain\\test.domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T06:58:31.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

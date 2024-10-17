@@ -1,0 +1,15 @@
+C:\Users\ojimenez\source\repos\Prueba\test.infrastructure\bin\Debug\net6.0\test.infrastructure.deps.json
+C:\Users\ojimenez\source\repos\Prueba\test.infrastructure\bin\Debug\net6.0\test.infrastructure.dll
+C:\Users\ojimenez\source\repos\Prueba\test.infrastructure\bin\Debug\net6.0\test.infrastructure.pdb
+C:\Users\ojimenez\source\repos\Prueba\test.infrastructure\bin\Debug\net6.0\test.domain.dll
+C:\Users\ojimenez\source\repos\Prueba\test.infrastructure\bin\Debug\net6.0\test.domain.pdb
+C:\Users\ojimenez\source\repos\Prueba\test.infrastructure\obj\Debug\net6.0\test.infrastructure.csproj.AssemblyReference.cache
+C:\Users\ojimenez\source\repos\Prueba\test.infrastructure\obj\Debug\net6.0\test.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ojimenez\source\repos\Prueba\test.infrastructure\obj\Debug\net6.0\test.infrastructure.AssemblyInfoInputs.cache
+C:\Users\ojimenez\source\repos\Prueba\test.infrastructure\obj\Debug\net6.0\test.infrastructure.AssemblyInfo.cs
+C:\Users\ojimenez\source\repos\Prueba\test.infrastructure\obj\Debug\net6.0\test.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ojimenez\source\repos\Prueba\test.infrastructure\obj\Debug\net6.0\test.inf.78A0C9AB.Up2Date
+C:\Users\ojimenez\source\repos\Prueba\test.infrastructure\obj\Debug\net6.0\test.infrastructure.dll
+C:\Users\ojimenez\source\repos\Prueba\test.infrastructure\obj\Debug\net6.0\refint\test.infrastructure.dll
+C:\Users\ojimenez\source\repos\Prueba\test.infrastructure\obj\Debug\net6.0\test.infrastructure.pdb
+C:\Users\ojimenez\source\repos\Prueba\test.infrastructure\obj\Debug\net6.0\ref\test.infrastructure.dll

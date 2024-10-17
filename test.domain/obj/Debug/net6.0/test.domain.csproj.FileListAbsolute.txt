@@ -1,0 +1,11 @@
+C:\Users\ojimenez\source\repos\Prueba\test.domain\bin\Debug\net6.0\test.domain.deps.json
+C:\Users\ojimenez\source\repos\Prueba\test.domain\bin\Debug\net6.0\test.domain.dll
+C:\Users\ojimenez\source\repos\Prueba\test.domain\bin\Debug\net6.0\test.domain.pdb
+C:\Users\ojimenez\source\repos\Prueba\test.domain\obj\Debug\net6.0\test.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ojimenez\source\repos\Prueba\test.domain\obj\Debug\net6.0\test.domain.AssemblyInfoInputs.cache
+C:\Users\ojimenez\source\repos\Prueba\test.domain\obj\Debug\net6.0\test.domain.AssemblyInfo.cs
+C:\Users\ojimenez\source\repos\Prueba\test.domain\obj\Debug\net6.0\test.domain.csproj.CoreCompileInputs.cache
+C:\Users\ojimenez\source\repos\Prueba\test.domain\obj\Debug\net6.0\test.domain.dll
+C:\Users\ojimenez\source\repos\Prueba\test.domain\obj\Debug\net6.0\refint\test.domain.dll
+C:\Users\ojimenez\source\repos\Prueba\test.domain\obj\Debug\net6.0\test.domain.pdb
+C:\Users\ojimenez\source\repos\Prueba\test.domain\obj\Debug\net6.0\ref\test.domain.dll
