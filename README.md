@@ -38,7 +38,7 @@ Abre Visual Studio y carga la solución Hexagonal2.sln.
 Abre el archivo Startup.cs en el proyecto test.webapi.
 
 Configura la cadena de conexión de MongoDB como sigue:
-services.AddSingleton<IMongoClient>(new MongoClient("mongodb://usrmultiradicador:multiradicador*2020@20.109.8.103:29029/?authSource=isalud-multiradicador-pre-ips"));
+services.AddSingleton<IMongoClient>(new MongoClient("Aqui_iria_la_cadenade_coneccion"));
 
 Esta cadena de conexión ha sido suministrada por el área de integración y conecta a una base de datos MongoDB para almacenar transacciones.
 
