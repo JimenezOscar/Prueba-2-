@@ -17,10 +17,14 @@ namespace test.infrastructure.Repositories
             _collection = database.GetCollection<Transaction>("transacciones");
         }
 
-
         public async Task AddAsync(Transaction transaction) => await _collection.InsertOneAsync(transaction);
+
         public async Task UpdateAsync(Transaction transaction) => await _collection.ReplaceOneAsync(t => t.Id == transaction.Id, transaction);
+
         public async Task<Transaction> GetByIdAsync(Guid id) => await _collection.Find(t => t.Id == id).FirstOrDefaultAsync();
+
         public async Task<IEnumerable<Transaction>> GetByStatusAsync(string status) => await _collection.Find(t => t.Status == status).ToListAsync();
+
+        public async Task<IEnumerable<Transaction>> GetAllAsync() => await _collection.Find(t => true).ToListAsync(); 
     }
 }

@@ -17,8 +17,8 @@ namespace test.webapi
         {
             services.AddControllers();
 
-            // Configuración de JWT
-            var key = Encoding.ASCII.GetBytes("ClaveSuperSeguraYMuyLargaParaJWT12345!");
+            
+            var key = Encoding.ASCII.GetBytes("OscarJimenez@2024#SeguraYCompleja\r\n");
 
             services.AddAuthentication(options =>
             {
@@ -56,7 +56,7 @@ namespace test.webapi
 
             app.UseRouting();
 
-            app.UseAuthentication(); // Asegúrate de que la autenticación está habilitada
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

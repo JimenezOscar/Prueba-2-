@@ -1,7 +1,7 @@
-﻿using System;
+﻿using test.domain.Models;
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using test.domain.Models;
 
 namespace test.domain.Interfaces
 {
@@ -11,5 +11,6 @@ namespace test.domain.Interfaces
         Task UpdateAsync(Transaction transaction);
         Task<Transaction> GetByIdAsync(Guid id);
         Task<IEnumerable<Transaction>> GetByStatusAsync(string status);
+        Task<IEnumerable<Transaction>> GetAllAsync();
     }
 }

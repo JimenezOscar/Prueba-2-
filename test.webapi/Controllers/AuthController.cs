@@ -15,10 +15,10 @@ namespace test.webapi.Controllers
         [HttpPost("login")]
         public IActionResult Login([FromBody] LoginModel login)
         {
-            if (login.Username == "testuser" && login.Password == "password")
+            if (login.Username == "oscar" && login.Password == "jimenez")
             {
                 var tokenHandler = new JwtSecurityTokenHandler();
-                var key = Encoding.ASCII.GetBytes("ClaveSuperSeguraYMuyLargaParaJWT12345!");
+                var key = Encoding.ASCII.GetBytes("OscarJimenez@2024#SeguraYCompleja\r\n");
                 var tokenDescriptor = new SecurityTokenDescriptor
                 {
                     Subject = new ClaimsIdentity(new[] { new Claim("id", "testuser") }),

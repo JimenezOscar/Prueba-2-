@@ -19,5 +19,6 @@ namespace test.application.Services
         public Task UpdateTransactionAsync(Transaction transaction) => _repository.UpdateAsync(transaction);
         public Task<Transaction> GetTransactionByIdAsync(Guid id) => _repository.GetByIdAsync(id);
         public Task<IEnumerable<Transaction>> GetTransactionsByStatusAsync(string status) => _repository.GetByStatusAsync(status);
+        public Task<IEnumerable<Transaction>> GetAllTransactionsAsync() => _repository.GetAllAsync();
     }
 }

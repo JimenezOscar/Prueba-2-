@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.application\\test.application.csproj": {}
+    "C:\\Users\\ojimenez\\Documents\\TestDJ\\Prueba\\fin\\Prueba-2-\\test.application\\test.application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.application\\test.application.csproj": {
+    "C:\\Users\\ojimenez\\Documents\\TestDJ\\Prueba\\fin\\Prueba-2-\\test.application\\test.application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.application\\test.application.csproj",
+        "projectUniqueName": "C:\\Users\\ojimenez\\Documents\\TestDJ\\Prueba\\fin\\Prueba-2-\\test.application\\test.application.csproj",
         "projectName": "test.application",
-        "projectPath": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.application\\test.application.csproj",
+        "projectPath": "C:\\Users\\ojimenez\\Documents\\TestDJ\\Prueba\\fin\\Prueba-2-\\test.application\\test.application.csproj",
         "packagesPath": "C:\\Users\\ojimenez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.application\\obj\\",
+        "outputPath": "C:\\Users\\ojimenez\\Documents\\TestDJ\\Prueba\\fin\\Prueba-2-\\test.application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ojimenez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.domain\\test.domain.csproj": {
-                "projectPath": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.domain\\test.domain.csproj"
+              "C:\\Users\\ojimenez\\Documents\\TestDJ\\Prueba\\fin\\Prueba-2-\\test.domain\\test.domain.csproj": {
+                "projectPath": "C:\\Users\\ojimenez\\Documents\\TestDJ\\Prueba\\fin\\Prueba-2-\\test.domain\\test.domain.csproj"
               }
             }
           }
@@ -49,6 +49,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.10.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -83,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.domain\\test.domain.csproj": {
+    "C:\\Users\\ojimenez\\Documents\\TestDJ\\Prueba\\fin\\Prueba-2-\\test.domain\\test.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.domain\\test.domain.csproj",
+        "projectUniqueName": "C:\\Users\\ojimenez\\Documents\\TestDJ\\Prueba\\fin\\Prueba-2-\\test.domain\\test.domain.csproj",
         "projectName": "test.domain",
-        "projectPath": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.domain\\test.domain.csproj",
+        "projectPath": "C:\\Users\\ojimenez\\Documents\\TestDJ\\Prueba\\fin\\Prueba-2-\\test.domain\\test.domain.csproj",
         "packagesPath": "C:\\Users\\ojimenez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ojimenez\\source\\repos\\Prueba\\test.domain\\obj\\",
+        "outputPath": "C:\\Users\\ojimenez\\Documents\\TestDJ\\Prueba\\fin\\Prueba-2-\\test.domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ojimenez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,6 +130,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.10.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

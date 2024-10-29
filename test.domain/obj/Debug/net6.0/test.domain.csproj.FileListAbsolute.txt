@@ -9,3 +9,16 @@ C:\Users\ojimenez\source\repos\Prueba\test.domain\obj\Debug\net6.0\test.domain.d
 C:\Users\ojimenez\source\repos\Prueba\test.domain\obj\Debug\net6.0\refint\test.domain.dll
 C:\Users\ojimenez\source\repos\Prueba\test.domain\obj\Debug\net6.0\test.domain.pdb
 C:\Users\ojimenez\source\repos\Prueba\test.domain\obj\Debug\net6.0\ref\test.domain.dll
+C:\Users\ojimenez\Documents\TestDJ\Prueba\fin\Prueba-2-\test.domain\bin\Debug\net6.0\test.domain.deps.json
+C:\Users\ojimenez\Documents\TestDJ\Prueba\fin\Prueba-2-\test.domain\bin\Debug\net6.0\test.domain.dll
+C:\Users\ojimenez\Documents\TestDJ\Prueba\fin\Prueba-2-\test.domain\bin\Debug\net6.0\test.domain.pdb
+C:\Users\ojimenez\Documents\TestDJ\Prueba\fin\Prueba-2-\test.domain\obj\Debug\net6.0\test.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ojimenez\Documents\TestDJ\Prueba\fin\Prueba-2-\test.domain\obj\Debug\net6.0\test.domain.AssemblyInfoInputs.cache
+C:\Users\ojimenez\Documents\TestDJ\Prueba\fin\Prueba-2-\test.domain\obj\Debug\net6.0\test.domain.AssemblyInfo.cs
+C:\Users\ojimenez\Documents\TestDJ\Prueba\fin\Prueba-2-\test.domain\obj\Debug\net6.0\test.domain.csproj.CoreCompileInputs.cache
+C:\Users\ojimenez\Documents\TestDJ\Prueba\fin\Prueba-2-\test.domain\obj\Debug\net6.0\test.domain.sourcelink.json
+C:\Users\ojimenez\Documents\TestDJ\Prueba\fin\Prueba-2-\test.domain\obj\Debug\net6.0\test.domain.dll
+C:\Users\ojimenez\Documents\TestDJ\Prueba\fin\Prueba-2-\test.domain\obj\Debug\net6.0\refint\test.domain.dll
+C:\Users\ojimenez\Documents\TestDJ\Prueba\fin\Prueba-2-\test.domain\obj\Debug\net6.0\test.domain.pdb
+C:\Users\ojimenez\Documents\TestDJ\Prueba\fin\Prueba-2-\test.domain\obj\Debug\net6.0\ref\test.domain.dll
+C:\Users\ojimenez\Documents\TestDJ\Prueba\fin\Prueba-2-\test.domain\obj\Debug\net6.0\test.domain.csproj.AssemblyReference.cache
