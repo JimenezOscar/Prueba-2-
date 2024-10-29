@@ -1,4 +1,4 @@
-Descripción del Proyecto
+Descripción del Proyecto.-
 Solución Completa
 La solución se compone de cuatro proyectos, siguiendo la arquitectura hexagonal. Estos proyectos son:
 

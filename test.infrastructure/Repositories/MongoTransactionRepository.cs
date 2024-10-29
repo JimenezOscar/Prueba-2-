@@ -13,8 +13,8 @@ namespace test.infrastructure.Repositories
 
         public MongoTransactionRepository(IMongoClient mongoClient)
         {
-            var database = mongoClient.GetDatabase("isalud-multiradicador-pre-ips");
-            _collection = database.GetCollection<Transaction>("transacciones");
+            var database = mongoClient.GetDatabase("Aqui_va_nombre_base_de_datos");
+            _collection = database.GetCollection<Transaction>("Nombre_coleccion");
         }
 
         public async Task AddAsync(Transaction transaction) => await _collection.InsertOneAsync(transaction);

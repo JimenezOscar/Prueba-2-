@@ -38,7 +38,7 @@ namespace test.webapi
                 };
             });
 
-            services.AddSingleton<IMongoClient>(new MongoClient("mongodb://usrmultiradicador:multiradicador*2020@20.109.8.103:29029/?authSource=isalud-multiradicador-pre-ips"));
+            services.AddSingleton<IMongoClient>(new MongoClient("Aqui_iria_la_cadenade_coneccion"));
             services.AddScoped<ITransactionRepository, MongoTransactionRepository>();
             services.AddScoped<TransactionService>();
             services.AddSwaggerGen();

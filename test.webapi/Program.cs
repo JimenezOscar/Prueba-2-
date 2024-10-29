@@ -34,7 +34,7 @@ builder.Services.AddAuthentication(options =>
 });
 
 
-builder.Services.AddSingleton<IMongoClient>(new MongoClient("mongodb://usrmultiradicador:multiradicador*2020@20.109.8.103:29029/?authSource=isalud-multiradicador-pre-ips"));
+builder.Services.AddSingleton<IMongoClient>(new MongoClient("Aqui_iria_la_cadenade_coneccion"));
 builder.Services.AddScoped<ITransactionRepository, MongoTransactionRepository>();
 builder.Services.AddScoped<TransactionService>();
 
